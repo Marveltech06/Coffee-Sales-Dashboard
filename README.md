@@ -29,11 +29,12 @@ The cleaned dataset was prepared for analysis by:
 - Handling missing values and validating sales amounts.
 The clean dataset provided a reliable foundation for building the interactive dashboard and extracting meaningful business insights.
   **Raw Data**                
-   ![](Raw.data.png)
+   ![](Raw_data.png)
  Click here to [Downloadhere](coffeeOrdersData.xlsx) 
+
   **Cleaned Data**
   ![](Cleaned_data.png)
-Click here to[Downloadhere](Cleaned_Coffeedata.xlsx)
+Click here to [Downloadhere](Cleaned_Coffeedata.xlsx)
 
 ### Tools Used: Microsoft Excel (Pivot Tables, Slicers, Charts, Conditional Formatting).
 🎯 Key Metrics:
@@ -51,9 +52,31 @@ Click here to[Downloadhere](Cleaned_Coffeedata.xlsx)
 - Arabica and Excelsa varieties show high sales peaks compared to Robusta and Liberica.
 - The top 5 customers contribute noticeably to total sales, with Allis Wilmore being the highest contributor.
 - Seasonal fluctuations highlight peak sales in certain months, indicating strong demand cycles.
-
-
-
+## Dashboard Preview
+![](Dashboard.png)
+Click here to interact with the Dashboard [Downloadhere](Coffee_Dashboard.xlsx)
+## 🔑 Key Insights
+- The United States leads in total sales ($35,639), significantly outperforming the UK and Ireland.
+- Arabica and Excelsa varieties show high sales peaks compared to Robusta and Liberica.
+- The top 5 customers contribute noticeably to total sales, with Allis Wilmore being the highest contributor.
+- Seasonal fluctuations highlight peak sales in certain months, indicating strong demand cycles.
+## 🚀 Business Recommendations
+- Focus marketing campaigns in the United States to sustain and grow dominance.
+- Introduce promotions for Robusta and Liberica varieties to balance product sales.
+- Strengthen loyalty card adoption to increase repeat purchases.
+- Expand sales strategies in the UK and Ireland to diversify revenue streams.
+- Monitor seasonal peaks to align inventory and supply chain for high-demand months.
+## 🛠️ Skills Demonstrated
+- Data Cleaning & Preparation
+- Pivot Tables & Pivot Charts
+- Slicers & Timelines
+- Functions & Formulas
+- Dashboard Design & Visualization
+- Business Insight Generation
+## 👨‍💻 Author
+### Folagbade Olatunbosun Samuel
+- 💼 LinkedIn:https://www.linkedin.com/in/olatunbosun-folagbade-559151243/
+- 📧 Email:Folagbadeolatunbosun@gmail.com
 
 
 
