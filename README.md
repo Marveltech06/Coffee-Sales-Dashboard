@@ -30,7 +30,9 @@ The cleaned dataset was prepared for analysis by:
 The clean dataset provided a reliable foundation for building the interactive dashboard and extracting meaningful business insights.
       **Raw Data**                   |    **Cleaned Data**
   :...............................:  | :.......................:
-   ![](coffeeOrdersData (1).xlsx)
+
+
+  Click here to [Downloadhere](coffeeOrdersData.xlsx)
 
 ### Tools Used: Microsoft Excel (Pivot Tables, Slicers, Charts, Conditional Formatting).
 🎯 Key Metrics:
