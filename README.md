@@ -28,11 +28,12 @@ The cleaned dataset was prepared for analysis by:
 - Ensuring uniform category names (e.g., Roast Type, Coffee Type).
 - Handling missing values and validating sales amounts.
 The clean dataset provided a reliable foundation for building the interactive dashboard and extracting meaningful business insights.
-      **Raw Data**                   |    **Cleaned Data**
-  :...............................:  | :.......................:
-
-
-  Click here to [Downloadhere](coffeeOrdersData.xlsx)
+  **Raw Data**                
+   ![](Raw.data.png)
+ Click here to [Downloadhere](coffeeOrdersData.xlsx) 
+  **Cleaned Data**
+  ![](Cleaned_data.png)
+Click here to[Downloadhere](Cleaned_Coffeedata.xlsx)
 
 ### Tools Used: Microsoft Excel (Pivot Tables, Slicers, Charts, Conditional Formatting).
 🎯 Key Metrics:
